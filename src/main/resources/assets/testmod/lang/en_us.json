@@ -1,4 +1,9 @@
 {
   "item.testmod.johnpork" : "John Pork",
-  "item.testmod.johnporkblock" : "Block of John Pork"
+  "item.testmod.obama" : "Obama",
+
+  "block.testmod.johnporkblock" : "Block of John Pork",
+  "block.testmod.obamaore" : "Obama Ore",
+
+  "creativetab.testmod.meme": "Meme"
 }

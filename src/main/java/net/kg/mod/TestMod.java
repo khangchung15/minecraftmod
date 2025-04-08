@@ -1,8 +1,9 @@
 package net.kg.mod;
 
 import com.mojang.logging.LogUtils;
-import net.kg.mod.item.ModItem;
-import net.minecraft.world.item.CreativeModeTab;
+import net.kg.mod.block.ModBlocks;
+import net.kg.mod.item.ModCreativeModeTabs;
+import net.kg.mod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -31,7 +32,11 @@ public class TestMod {
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(this);
 
-        ModItem.register(modEventBus);
+        ModCreativeModeTabs.register(modEventBus);
+
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
+
         modEventBus.addListener(this::addCreative);
         ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, Config.SPEC);
     }
@@ -43,8 +48,17 @@ public class TestMod {
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
-            event.accept(ModItem.JOHNPORK);
-            event.accept(ModItem.JOHNPORK_BLOCK);
+            event.accept(ModItems.JOHNPORK);
+        }
+        if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
+            event.accept(ModItems.OBAMA);
+        }
+
+        if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+            event.accept(ModBlocks.JOHNPORKBLOCK);
+        }
+        if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+            event.accept(ModBlocks.OBAMAORE);
         }
     }
 

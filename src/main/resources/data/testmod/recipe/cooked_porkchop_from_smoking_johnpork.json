@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 7,
+  "ingredient": {
+    "item": "testmod:johnpork"
+  },
+  "result": {
+    "id": "minecraft:cooked_porkchop"
+  }
+}

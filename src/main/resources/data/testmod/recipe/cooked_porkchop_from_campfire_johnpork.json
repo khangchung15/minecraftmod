@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 600,
+  "experience": 7,
+  "ingredient": {
+    "item": "testmod:johnpork"
+  },
+  "result": {
+    "id": "minecraft:cooked_porkchop"
+  }
+}

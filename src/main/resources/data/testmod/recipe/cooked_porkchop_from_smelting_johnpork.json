@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 7,
+  "group": "johnpork",
+  "ingredient": {
+    "item": "testmod:johnpork"
+  },
+  "result": {
+    "id": "minecraft:cooked_porkchop"
+  }
+}

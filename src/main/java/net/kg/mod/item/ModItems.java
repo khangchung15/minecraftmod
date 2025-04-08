@@ -7,15 +7,16 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 
-public class ModItem {
+public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, TestMod.MOD_ID);
 
     public static final RegistryObject<Item> JOHNPORK = ITEMS.register("johnpork",
             () -> new Item(new Item.Properties()));
 
-    public static final RegistryObject<Item> JOHNPORK_BLOCK = ITEMS.register("johnporkblock",
+    public static final RegistryObject<Item> OBAMA = ITEMS.register("obama",
             () -> new Item(new Item.Properties()));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 7,
+  "group": "obamaore",
+  "ingredient": {
+    "item": "testmod:obamaore"
+  },
+  "result": {
+    "id": "testmod:obama"
+  }
+}
