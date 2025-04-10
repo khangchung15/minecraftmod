@@ -24,6 +24,13 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.JOHNPORK.get());
                         output.accept(ModBlocks.JOHNPORKBLOCK.get());
+
+                        output.accept(ModItems.OBAMA.get());
+                        output.accept(ModBlocks.OBAMABLOCK.get());
+                        output.accept(ModBlocks.OBAMAORE.get());
+
+                        output.accept(ModItems.TRANSMUTATIONWAND.get());
+                        output.accept(ModBlocks.TRANSMUTATIONBLOCK.get());
                     })
                     .build());
 }

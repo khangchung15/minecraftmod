@@ -32,10 +32,9 @@ public class TestMod {
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(this);
 
-        ModCreativeModeTabs.register(modEventBus);
-
-        ModItems.register(modEventBus);
-        ModBlocks.register(modEventBus);
+        ModItems.register(modEventBus);     // Items first
+        ModBlocks.register(modEventBus);    // Then blocks
+        ModCreativeModeTabs.register(modEventBus); // Then tabs
 
         modEventBus.addListener(this::addCreative);
         ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, Config.SPEC);
@@ -50,15 +49,25 @@ public class TestMod {
         if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.JOHNPORK);
         }
-        if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
-            event.accept(ModItems.OBAMA);
-        }
-
         if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.JOHNPORKBLOCK);
         }
+
+        if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
+            event.accept(ModItems.OBAMA);
+        }
+        if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+            event.accept(ModBlocks.OBAMABLOCK);
+        }
         if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.OBAMAORE);
+        }
+
+        if (event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
+            event.accept(ModItems.TRANSMUTATIONWAND);
+        }
+        if (event.getTabKey() == CreativeModeTabs.FUNCTIONAL_BLOCKS) {
+            event.accept(ModBlocks.TRANSMUTATIONBLOCK);
         }
     }
 

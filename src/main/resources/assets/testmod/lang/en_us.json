@@ -1,9 +1,13 @@
 {
   "item.testmod.johnpork" : "John Pork",
-  "item.testmod.obama" : "Obama",
-
   "block.testmod.johnporkblock" : "Block of John Pork",
+
+  "item.testmod.obama" : "Obama",
+  "block.testmod.obamablock" : "Block of Obama",
   "block.testmod.obamaore" : "Obama Ore",
+
+  "item.testmod.transmutationwand" : "Wand of Transmutation",
+  "block.testmod.transmutationblock" : "Block of Transmutation",
 
   "creativetab.testmod.meme": "Meme"
 }

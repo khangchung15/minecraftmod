@@ -1,6 +1,7 @@
 package net.kg.mod.item;
 
 import net.kg.mod.TestMod;
+import net.kg.mod.item.custom.TransmutationItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -16,6 +17,9 @@ public class ModItems {
 
     public static final RegistryObject<Item> OBAMA = ITEMS.register("obama",
             () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> TRANSMUTATIONWAND = ITEMS.register("transmutationwand",
+            () -> new TransmutationItem(new Item.Properties().durability(64)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
