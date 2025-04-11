@@ -1,7 +1,7 @@
 {
   "type": "minecraft:blasting",
   "category": "food",
-  "cookingtime": 200,
+  "cookingtime": 50,
   "experience": 7,
   "group": "obamaore",
   "ingredient": {

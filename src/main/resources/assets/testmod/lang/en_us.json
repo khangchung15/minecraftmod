@@ -1,8 +1,10 @@
 {
   "item.testmod.johnpork" : "John Pork",
   "block.testmod.johnporkblock" : "Block of John Pork",
+  "item.testmod.johnporkmeat" : "John Pork's Meat",
 
   "item.testmod.obama" : "Obama",
+  "item.testmod.obamafuel" : "Obama Fuel",
   "block.testmod.obamablock" : "Block of Obama",
   "block.testmod.obamaore" : "Obama Ore",
 

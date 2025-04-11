@@ -311,6 +311,13 @@ public class TransmutationItem extends Item {
             Map.entry(Blocks.CAMPFIRE, Blocks.SOUL_CAMPFIRE),
             Map.entry(Blocks.SOUL_CAMPFIRE, Blocks.CAMPFIRE),
 
+            //Redstone
+            Map.entry(Blocks.PISTON, Blocks.STICKY_PISTON),
+            Map.entry(Blocks.NOTE_BLOCK, Blocks.JUKEBOX),
+            Map.entry(Blocks.DISPENSER, Blocks.DROPPER),
+            Map.entry(Blocks.SCULK_SENSOR, Blocks.CALIBRATED_SCULK_SENSOR),
+            Map.entry(Blocks.CALIBRATED_SCULK_SENSOR, Blocks.SCULK_SENSOR),
+
             //Mushroom
             Map.entry(Blocks.BROWN_MUSHROOM, Blocks.RED_MUSHROOM),
             Map.entry(Blocks.RED_MUSHROOM, Blocks.BROWN_MUSHROOM),

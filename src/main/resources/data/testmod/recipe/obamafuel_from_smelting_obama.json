@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 100,
+  "experience": 50,
+  "ingredient": {
+    "item": "testmod:obama"
+  },
+  "result": {
+    "id": "testmod:obamafuel"
+  }
+}

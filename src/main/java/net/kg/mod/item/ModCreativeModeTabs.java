@@ -23,9 +23,11 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("creativetab.testmod.meme"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.JOHNPORK.get());
+                        output.accept(ModItems.JOHNPORKMEAT.get());
                         output.accept(ModBlocks.JOHNPORKBLOCK.get());
 
                         output.accept(ModItems.OBAMA.get());
+                        output.accept(ModItems.OBAMAFUEL.get());
                         output.accept(ModBlocks.OBAMABLOCK.get());
                         output.accept(ModBlocks.OBAMAORE.get());
 
