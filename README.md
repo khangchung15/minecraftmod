@@ -41,7 +41,7 @@ Added many blocks and items from meme culture. Here are the list of **everything
 Allow players to transmute or downgrade blocks and items. Transmuting Wand only allows players to transmute blocks while Block of Transmutation allow players to transmute blocks & items when **thrown on top**.
 These transmutation can be downgrading blocks (Iron Block → Copper Block → Coal Block) or transmuting blocks (Black Wool → Blue Wool)
 
-### Transmuting Wand: Right click on blocks to transmute or downgrade it!
-- Crafted from 2 sticks and 1 John Pork's Meat
+### Transmuting Wand: Crafted from 2 sticks and 1 John Pork's Meat
 
   ![image](https://github.com/user-attachments/assets/77516cff-cc1e-4c45-b6f4-743ed3f25934)
+- 
