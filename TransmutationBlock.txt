@@ -1,0 +1,849 @@
+Music Discs
+    Music Disc 13 → Music Disc Cat
+    Music Disc Cat → Music Disc Blocks
+    Music Disc Blocks → Music Disc Chirp
+    Music Disc Chirp → Music Disc Far
+    Music Disc Far → Music Disc Mall
+    Music Disc Mall → Music Disc Mellohi
+    Music Disc Mellohi → Music Disc Stal
+    Music Disc Stal → Music Disc Strad
+    Music Disc Strad → Music Disc Ward
+    Music Disc Ward → Music Disc 11
+    Music Disc 11 → Music Disc Creator Music Box
+    Music Disc Creator Music Box → Music Disc Wait
+    Music Disc Wait → Music Disc Creator
+    Music Disc Creator → Music Disc Precipice
+    Music Disc Precipice → Music Disc Otherside
+    Music Disc Otherside → Music Disc Relic
+    Music Disc Relic → Music Disc 5
+    Music Disc 5 → Music Disc Pigstep
+
+Coral
+    Tube Coral → Brain Coral
+    Brain Coral → Bubble Coral
+    Bubble Coral → Fire Coral
+    Fire Coral → Horn Coral
+    Horn Coral → Tube Coral
+    Tube Coral Fan → Brain Coral Fan
+    Brain Coral Fan → Bubble Coral Fan
+    Bubble Coral Fan → Fire Coral Fan
+    Fire Coral Fan → Horn Coral Fan
+    Horn Coral Fan → Tube Coral Fan
+    Tube Coral Block → Brain Coral Block
+    Brain Coral Block → Bubble Coral Block
+    Bubble Coral Block → Fire Coral Block
+    Fire Coral Block → Horn Coral Block
+    Horn Coral Block → Tube Coral Block
+    Dead Tube Coral → Dead Brain Coral
+    Dead Brain Coral → Dead Bubble Coral
+    Dead Bubble Coral → Dead Fire Coral
+    Dead Fire Coral → Dead Horn Coral
+    Dead Horn Coral → Dead Tube Coral
+    Dead Tube Coral Fan → Dead Brain Coral Fan
+    Dead Brain Coral Fan → Dead Bubble Coral Fan
+    Dead Bubble Coral Fan → Dead Fire Coral Fan
+    Dead Fire Coral Fan → Dead Horn Coral Fan
+    Dead Horn Coral Fan → Dead Tube Coral Fan
+    Dead Tube Coral Block → Dead Brain Coral Block
+    Dead Brain Coral Block → Dead Bubble Coral Block
+    Dead Bubble Coral Block → Dead Fire Coral Block
+    Dead Fire Coral Block → Dead Horn Coral Block
+    Dead Horn Coral Block → Dead Tube Coral Block
+
+Leaves
+    Oak Leaves → Birch Leaves
+    Birch Leaves → Spruce Leaves
+    Spruce Leaves → Jungle Leaves
+    Jungle Leaves → Acacia Leaves
+    Acacia Leaves → Dark Oak Leaves
+    Dark Oak Leaves → Mangrove Leaves
+    Mangrove Leaves → Cherry Leaves
+    Cherry Leaves → Nether Wart Block
+    Nether Wart Block → Warped Wart Block
+    Warped Wart Block → Oak Leaves
+
+Saplings
+    Oak Sapling → Birch Sapling
+    Birch Sapling → Spruce Sapling
+    Spruce Sapling → Jungle Sapling
+    Jungle Sapling → Acacia Sapling
+    Acacia Sapling → Dark Oak Sapling
+    Dark Oak Sapling → Mangrove Propagule
+    Mangrove Propagule → Cherry Sapling
+    Cherry Sapling → Oak Sapling
+
+Boats
+    Oak Boat → Birch Boat
+    Birch Boat → Spruce Boat
+    Spruce Boat → Jungle Boat
+    Jungle Boat → Acacia Boat
+    Acacia Boat → Dark Oak Boat
+    Dark Oak Boat → Mangrove Boat
+    Mangrove Boat → Cherry Boat
+    Cherry Boat → Oak Boat
+    Oak Chest Boat → Birch Chest Boat
+    Birch Chest Boat → Spruce Chest Boat
+    Spruce Chest Boat → Jungle Chest Boat
+    Jungle Chest Boat → Acacia Chest Boat
+    Acacia Chest Boat → Dark Oak Chest Boat
+    Dark Oak Chest Boat → Mangrove Chest Boat
+    Mangrove Chest Boat → Cherry Chest Boat
+    Cherry Chest Boat → Oak Chest Boat
+
+Logs
+    Oak Log → Birch Log
+    Birch Log → Spruce Log
+    Spruce Log → Jungle Log
+    Jungle Log → Acacia Log
+    Acacia Log → Dark Oak Log
+    Dark Oak Log → Mangrove Log
+    Mangrove Log → Cherry Log
+    Cherry Log → Crimson Stem
+    Crimson Stem → Warped Stem
+    Warped Stem → Oak Log
+
+Stripped Logs
+    Stripped Oak Log → Stripped Birch Log
+    Stripped Birch Log → Stripped Spruce Log
+    Stripped Spruce Log → Stripped Jungle Log
+    Stripped Jungle Log → Stripped Acacia Log
+    Stripped Acacia Log → Stripped Dark Oak Log
+    Stripped Dark Oak Log → Stripped Mangrove Log
+    Stripped Mangrove Log → Stripped Cherry Log
+    Stripped Cherry Log → Stripped Crimson Stem
+    Stripped Crimson Stem → Stripped Warped Stem
+    Stripped Warped Stem → Stripped Oak Log
+
+Wood
+    Oak Wood → Birch Wood
+    Birch Wood → Spruce Wood
+    Spruce Wood → Jungle Wood
+    Jungle Wood → Acacia Wood
+    Acacia Wood → Dark Oak Wood
+    Dark Oak Wood → Mangrove Wood
+    Mangrove Wood → Cherry Wood
+    Cherry Wood → Crimson Hyphae
+    Crimson Hyphae → Warped Hyphae
+    Warped Hyphae → Oak Wood
+
+Stripped Wood
+    Stripped Oak Wood → Stripped Birch Wood
+    Stripped Birch Wood → Stripped Spruce Wood
+    Stripped Spruce Wood → Stripped Jungle Wood
+    Stripped Jungle Wood → Stripped Acacia Wood
+    Stripped Acacia Wood → Stripped Dark Oak Wood
+    Stripped Dark Oak Wood → Stripped Mangrove Wood
+    Stripped Mangrove Wood → Stripped Cherry Wood
+    Stripped Cherry Wood → Stripped Crimson Hyphae
+    Stripped Crimson Hyphae → Stripped Warped Hyphae
+    Stripped Warped Hyphae → Stripped Oak Wood
+
+Wood Planks
+    Oak Planks → Birch Planks
+    Birch Planks → Spruce Planks
+    Spruce Planks → Jungle Planks
+    Jungle Planks → Acacia Planks
+    Acacia Planks → Dark Oak Planks
+    Dark Oak Planks → Mangrove Planks
+    Mangrove Planks → Cherry Planks
+    Cherry Planks → Crimson Planks
+    Crimson Planks → Warped Planks
+    Warped Planks → Oak Planks
+
+Wood Stairs
+    Oak Stairs → Birch Stairs
+    Birch Stairs → Spruce Stairs
+    Spruce Stairs → Jungle Stairs
+    Jungle Stairs → Acacia Stairs
+    Acacia Stairs → Dark Oak Stairs
+    Dark Oak Stairs → Mangrove Stairs
+    Mangrove Stairs → Cherry Stairs
+    Cherry Stairs → Crimson Stairs
+    Crimson Stairs → Warped Stairs
+    Warped Stairs → Oak Stairs
+
+Wood Slabs
+    Oak Slab → Birch Slab
+    Birch Slab → Spruce Slab
+    Spruce Slab → Jungle Slab
+    Jungle Slab → Acacia Slab
+    Acacia Slab → Dark Oak Slab
+    Dark Oak Slab → Mangrove Slab
+    Mangrove Slab → Cherry Slab
+    Cherry Slab → Crimson Slab
+    Crimson Slab → Warped Slab
+    Warped Slab → Oak Slab
+
+Wood Fences
+    Oak Fence → Birch Fence
+    Birch Fence → Spruce Fence
+    Spruce Fence → Jungle Fence
+    Jungle Fence → Acacia Fence
+    Acacia Fence → Dark Oak Fence
+    Dark Oak Fence → Mangrove Fence
+    Mangrove Fence → Cherry Fence
+    Cherry Fence → Crimson Fence
+    Crimson Fence → Warped Fence
+    Warped Fence → Oak Fence
+
+Wood Fence Gates
+    Oak Fence Gate → Birch Fence Gate
+    Birch Fence Gate → Spruce Fence Gate
+    Spruce Fence Gate → Jungle Fence Gate
+    Jungle Fence Gate → Acacia Fence Gate
+    Acacia Fence Gate → Dark Oak Fence Gate
+    Dark Oak Fence Gate → Mangrove Fence Gate
+    Mangrove Fence Gate → Cherry Fence Gate
+    Cherry Fence Gate → Crimson Fence Gate
+    Crimson Fence Gate → Warped Fence Gate
+    Warped Fence Gate → Oak Fence Gate
+
+Wood Doors
+    Oak Door → Birch Door
+    Birch Door → Spruce Door
+    Spruce Door → Jungle Door
+    Jungle Door → Acacia Door
+    Acacia Door → Dark Oak Door
+    Dark Oak Door → Mangrove Door
+    Mangrove Door → Cherry Door
+    Cherry Door → Crimson Door
+    Crimson Door → Warped Door
+    Warped Door → Oak Door
+
+Wood Trapdoors
+    Oak Trapdoor → Birch Trapdoor
+    Birch Trapdoor → Spruce Trapdoor
+    Spruce Trapdoor → Jungle Trapdoor
+    Jungle Trapdoor → Acacia Trapdoor
+    Acacia Trapdoor → Dark Oak Trapdoor
+    Dark Oak Trapdoor → Mangrove Trapdoor
+    Mangrove Trapdoor → Cherry Trapdoor
+    Cherry Trapdoor → Crimson Trapdoor
+    Crimson Trapdoor → Warped Trapdoor
+    Warped Trapdoor → Oak Trapdoor
+
+Wood Pressure Plates
+    Oak Pressure Plate → Birch Pressure Plate
+    Birch Pressure Plate → Spruce Pressure Plate
+    Spruce Pressure Plate → Jungle Pressure Plate
+    Jungle Pressure Plate → Acacia Pressure Plate
+    Acacia Pressure Plate → Dark Oak Pressure Plate
+    Dark Oak Pressure Plate → Mangrove Pressure Plate
+    Mangrove Pressure Plate → Cherry Pressure Plate
+    Cherry Pressure Plate → Crimson Pressure Plate
+    Crimson Pressure Plate → Warped Pressure Plate
+    Warped Pressure Plate → Oak Pressure Plate
+
+Wood Buttons
+    Oak Button → Birch Button
+    Birch Button → Spruce Button
+    Spruce Button → Jungle Button
+    Jungle Button → Acacia Button
+    Acacia Button → Dark Oak Button
+    Dark Oak Button → Mangrove Button
+    Mangrove Button → Cherry Button
+    Cherry Button → Crimson Button
+    Crimson Button → Warped Button
+    Warped Button → Oak Button
+
+Wood Signs
+    Oak Sign → Birch Sign
+    Birch Sign → Spruce Sign
+    Spruce Sign → Jungle Sign
+    Jungle Sign → Acacia Sign
+    Acacia Sign → Dark Oak Sign
+    Dark Oak Sign → Mangrove Sign
+    Mangrove Sign → Cherry Sign
+    Cherry Sign → Crimson Sign
+    Crimson Sign → Warped Sign
+    Warped Sign → Oak Sign
+
+Wood Hanging Signs
+    Oak Hanging Sign → Birch Hanging Sign
+    Birch Hanging Sign → Spruce Hanging Sign
+    Spruce Hanging Sign → Jungle Hanging Sign
+    Jungle Hanging Sign → Acacia Hanging Sign
+    Acacia Hanging Sign → Dark Oak Hanging Sign
+    Dark Oak Hanging Sign → Mangrove Hanging Sign
+    Mangrove Hanging Sign → Cherry Hanging Sign
+    Cherry Hanging Sign → Crimson Hanging Sign
+    Crimson Hanging Sign → Warped Hanging Sign
+    Warped Hanging Sign → Oak Hanging Sign
+
+Dyes
+    Black Dye → Blue Dye
+    Blue Dye → Brown Dye
+    Brown Dye → Cyan Dye
+    Cyan Dye → Gray Dye
+    Gray Dye → Green Dye
+    Green Dye → Light Blue Dye
+    Light Blue Dye → Light Gray Dye
+    Light Gray Dye → Lime Dye
+    Lime Dye → Magenta Dye
+    Magenta Dye → Orange Dye
+    Orange Dye → Pink Dye
+    Pink Dye → Purple Dye
+    Purple Dye → Red Dye
+    Red Dye → White Dye
+    White Dye → Yellow Dye
+    Yellow Dye → Black Dye
+
+Wool
+    Black Wool → Blue Wool
+    Blue Wool → Brown Wool
+    Brown Wool → Cyan Wool
+    Cyan Wool → Gray Wool
+    Gray Wool → Green Wool
+    Green Wool → Light Blue Wool
+    Light Blue Wool → Light Gray Wool
+    Light Gray Wool → Lime Wool
+    Lime Wool → Magenta Wool
+    Magenta Wool → Orange Wool
+    Orange Wool → Pink Wool
+    Pink Wool → Purple Wool
+    Purple Wool → Red Wool
+    Red Wool → White Wool
+    White Wool → Yellow Wool
+    Yellow Wool → Black Wool
+
+Beds
+    Black Bed → Blue Bed
+    Blue Bed → Brown Bed
+    Brown Bed → Cyan Bed
+    Cyan Bed → Gray Bed
+    Gray Bed → Green Bed
+    Green Bed → Light Blue Bed
+    Light Blue Bed → Light Gray Bed
+    Light Gray Bed → Lime Bed
+    Lime Bed → Magenta Bed
+    Magenta Bed → Orange Bed
+    Orange Bed → Pink Bed
+    Pink Bed → Purple Bed
+    Purple Bed → Red Bed
+    Red Bed → White Bed
+    White Bed → Yellow Bed
+    Yellow Bed → Black Bed
+
+Concrete Powder
+    Black Concrete Powder → Blue Concrete Powder
+    Blue Concrete Powder → Brown Concrete Powder
+    Brown Concrete Powder → Cyan Concrete Powder
+    Cyan Concrete Powder → Gray Concrete Powder
+    Gray Concrete Powder → Green Concrete Powder
+    Green Concrete Powder → Light Blue Concrete Powder
+    Light Blue Concrete Powder → Light Gray Concrete Powder
+    Light Gray Concrete Powder → Lime Concrete Powder
+    Lime Concrete Powder → Magenta Concrete Powder
+    Magenta Concrete Powder → Orange Concrete Powder
+    Orange Concrete Powder → Pink Concrete Powder
+    Pink Concrete Powder → Purple Concrete Powder
+    Purple Concrete Powder → Red Concrete Powder
+    Red Concrete Powder → White Concrete Powder
+    White Concrete Powder → Yellow Concrete Powder
+    Yellow Concrete Powder → Black Concrete Powder
+
+Concrete
+    Black Concrete → Blue Concrete
+    Blue Concrete → Brown Concrete
+    Brown Concrete → Cyan Concrete
+    Cyan Concrete → Gray Concrete
+    Gray Concrete → Green Concrete
+    Green Concrete → Light Blue Concrete
+    Light Blue Concrete → Light Gray Concrete
+    Light Gray Concrete → Lime Concrete
+    Lime Concrete → Magenta Concrete
+    Magenta Concrete → Orange Concrete
+    Orange Concrete → Pink Concrete
+    Pink Concrete → Purple Concrete
+    Purple Concrete → Red Concrete
+    Red Concrete → White Concrete
+    White Concrete → Yellow Concrete
+    Yellow Concrete → Black Concrete
+
+Terracotta
+    Terracotta → Black Terracotta
+    Black Terracotta → Blue Terracotta
+    Blue Terracotta → Brown Terracotta
+    Brown Terracotta → Cyan Terracotta
+    Cyan Terracotta → Gray Terracotta
+    Gray Terracotta → Green Terracotta
+    Green Terracotta → Light Blue Terracotta
+    Light Blue Terracotta → Light Gray Terracotta
+    Light Gray Terracotta → Lime Terracotta
+    Lime Terracotta → Magenta Terracotta
+    Magenta Terracotta → Orange Terracotta
+    Orange Terracotta → Pink Terracotta
+    Pink Terracotta → Purple Terracotta
+    Purple Terracotta → Red Terracotta
+    Red Terracotta → White Terracotta
+    White Terracotta → Yellow Terracotta
+    Yellow Terracotta → Terracotta
+
+Glazed Terracotta
+    Black Glazed Terracotta → Blue Glazed Terracotta
+    Blue Glazed Terracotta → Brown Glazed Terracotta
+    Brown Glazed Terracotta → Cyan Glazed Terracotta
+    Cyan Glazed Terracotta → Gray Glazed Terracotta
+    Gray Glazed Terracotta → Green Glazed Terracotta
+    Green Glazed Terracotta → Light Blue Glazed Terracotta
+    Light Blue Glazed Terracotta → Light Gray Glazed Terracotta
+    Light Gray Glazed Terracotta → Lime Glazed Terracotta
+    Lime Glazed Terracotta → Magenta Glazed Terracotta
+    Magenta Glazed Terracotta → Orange Glazed Terracotta
+    Orange Glazed Terracotta → Pink Glazed Terracotta
+    Pink Glazed Terracotta → Purple Glazed Terracotta
+    Purple Glazed Terracotta → Red Glazed Terracotta
+    Red Glazed Terracotta → White Glazed Terracotta
+    White Glazed Terracotta → Yellow Glazed Terracotta
+    Yellow Glazed Terracotta → Black Glazed Terracotta
+
+Carpet
+    Black Carpet → Blue Carpet
+    Blue Carpet → Brown Carpet
+    Brown Carpet → Cyan Carpet
+    Cyan Carpet → Gray Carpet
+    Gray Carpet → Green Carpet
+    Green Carpet → Light Blue Carpet
+    Light Blue Carpet → Light Gray Carpet
+    Light Gray Carpet → Lime Carpet
+    Lime Carpet → Magenta Carpet
+    Magenta Carpet → Orange Carpet
+    Orange Carpet → Pink Carpet
+    Pink Carpet → Purple Carpet
+    Purple Carpet → Red Carpet
+    Red Carpet → White Carpet
+    White Carpet → Yellow Carpet
+    Yellow Carpet → Moss Carpet
+    Moss Carpet → Black Carpet
+
+Banner
+    Black Banner → Blue Banner
+    Blue Banner → Brown Banner
+    Brown Banner → Cyan Banner
+    Cyan Banner → Gray Banner
+    Gray Banner → Green Banner
+    Green Banner → Light Blue Banner
+    Light Blue Banner → Light Gray Banner
+    Light Gray Banner → Lime Banner
+    Lime Banner → Magenta Banner
+    Magenta Banner → Orange Banner
+    Orange Banner → Pink Banner
+    Pink Banner → Purple Banner
+    Purple Banner → Red Banner
+    Red Banner → White Banner
+    White Banner → Yellow Banner
+    Yellow Banner → Black Banner
+
+Glass
+    Glass → Black Stained Glass
+    Black Stained Glass → Blue Stained Glass
+    Blue Stained Glass → Brown Stained Glass
+    Brown Stained Glass → Cyan Stained Glass
+    Cyan Stained Glass → Gray Stained Glass
+    Gray Stained Glass → Green Stained Glass
+    Green Stained Glass → Light Blue Stained Glass
+    Light Blue Stained Glass → Light Gray Stained Glass
+    Light Gray Stained Glass → Lime Stained Glass
+    Lime Stained Glass → Magenta Stained Glass
+    Magenta Stained Glass → Orange Stained Glass
+    Orange Stained Glass → Pink Stained Glass
+    Pink Stained Glass → Purple Stained Glass
+    Purple Stained Glass → Red Stained Glass
+    Red Stained Glass → White Stained Glass
+    White Stained Glass → Yellow Stained Glass
+    Yellow Stained Glass → Tinted Glass
+    Tinted Glass → Glass
+
+Glass Pane
+    Glass Pane → Black Stained Glass Pane
+    Black Stained Glass Pane → Blue Stained Glass Pane
+    Blue Stained Glass Pane → Brown Stained Glass Pane
+    Brown Stained Glass Pane → Cyan Stained Glass Pane
+    Cyan Stained Glass Pane → Gray Stained Glass Pane
+    Gray Stained Glass Pane → Green Stained Glass Pane
+    Green Stained Glass Pane → Light Blue Stained Glass Pane
+    Light Blue Stained Glass Pane → Light Gray Stained Glass Pane
+    Light Gray Stained Glass Pane → Lime Stained Glass Pane
+    Lime Stained Glass Pane → Magenta Stained Glass Pane
+    Magenta Stained Glass Pane → Orange Stained Glass Pane
+    Orange Stained Glass Pane → Pink Stained Glass Pane
+    Pink Stained Glass Pane → Purple Stained Glass Pane
+    Purple Stained Glass Pane → Red Stained Glass Pane
+    Red Stained Glass Pane → White Stained Glass Pane
+    White Stained Glass Pane → Yellow Stained Glass Pane
+    Yellow Stained Glass Pane → Glass Pane
+
+Candle
+    Candle → Black Candle
+    Black Candle → Blue Candle
+    Blue Candle → Brown Candle
+    Brown Candle → Cyan Candle
+    Cyan Candle → Gray Candle
+    Gray Candle → Green Candle
+    Green Candle → Light Blue Candle
+    Light Blue Candle → Light Gray Candle
+    Light Gray Candle → Lime Candle
+    Lime Candle → Magenta Candle
+    Magenta Candle → Orange Candle
+    Orange Candle → Pink Candle
+    Pink Candle → Purple Candle
+    Purple Candle → Red Candle
+    Red Candle → White Candle
+    White Candle → Yellow Candle
+    Yellow Candle → Candle
+
+Common Mob Drops (Zombie, Creeper, Skeleton, Spider)
+    Rotten Flesh → Gunpowder
+    Gunpowder → Bone
+    Bone → Spider Eye
+    Spider Eye → Rotten Flesh
+
+Rare Mob Drops (Guardian, Slime, Phantom, Breeze, Magma Cube, Ghast, Blaze, Enderman)
+    Prismarine Shard → Prismarine Crystals
+    Prismarine Crystals → Slime Ball
+    Slime Ball → Phantom Membrane
+    Phantom Membrane → Breeze Rod
+    Breeze Rod → Blaze Rod
+    Blaze Rod → Magma Cream
+    Magma Cream → Ghast Tear
+    Ghast Tear → Ender Pearl
+    Ender Pearl → Prismarine Shard
+
+Boss or Good Mob Drops (Elder Guardian, Ender Dragon, Wither, Shulker, Warden, Evoker)
+    Wet Sponge → Dragon Egg
+    Dragon Egg → Nether Star
+    Nether Star → Shulker Shell
+    Shulker Shell → Sculk Catalyst
+    Sculk Catalyst → Totem of Undying
+    Totem of Undying → Wet Sponge
+
+Nether Lights
+    Glowstone → Shroomlight
+    Shroomlight → Glowstone
+
+Magma Block & Soul Sand & Soul Soil
+    Magma Block → Soul Sand
+    Soul Sand → Soul Soil
+    Soul Soil → Magma Block
+
+Lantern
+    Lantern → Soul Lantern
+    Soul Lantern → Lantern
+
+Campfire
+    Campfire → Soul Campfire
+    Soul Campfire → Campfire
+
+Redstone
+    Piston → Sticky Piston
+    Note Block → Jukebox
+    Dispenser → Dropper
+    Sculk Sensor → Calibrated Sculk Sensor
+    Calibrated Sculk Sensor → Sculk Sensor
+    Honey Block → Slime Block
+    Slime Block → Honey Block
+
+Mushroom
+    Brown Mushroom → Red Mushroom
+    Red Mushroom → Brown Mushroom
+    Crimson Fungus → Warped Fungus
+    Warped Fungus → Crimson Fungus
+
+Ice
+    Blue Ice → Packed Ice
+    Packed Ice → Ice
+
+Flower
+    Dandelion → Poppy
+    Poppy → Blue Orchid
+    Blue Orchid → Allium
+    Allium → Azure Bluet
+    Azure Bluet → Red Tulip
+    Red Tulip → Orange Tulip
+    Orange Tulip → White Tulip
+    White Tulip → Pink Tulip
+    Pink Tulip → Oxeye Daisy
+    Oxeye Daisy → Cornflower
+    Cornflower → Lily of the Valley
+    Lily of the Valley → Torchflower
+    Torchflower → Sunflower
+    Sunflower → Lilac
+    Lilac → Rose Bush
+    Rose Bush → Peony
+    Peony → Pitcher Plant
+    Pitcher Plant → Dandelion
+
+Melon & Pumpkin
+    Pumpkin → Melon
+    Melon → Pumpkin
+
+Amethyst
+    Amethyst Cluster → Large Amethyst Bud
+    Large Amethyst Bud → Medium Amethyst Bud
+    Medium Amethyst Bud → Small Amethyst Bud
+    Small Amethyst Bud → Amethyst Cluster
+
+Froglight
+    Ochre Froglight → Verdant Froglight
+    Verdant Froglight → Pearlescent Froglight
+    Pearlescent Froglight → Ochre Froglight
+
+Ore Drop Downgrade
+    Netherite Ingot → Diamond
+    Diamond → Lapis Lazuli
+    Lapis Lazuli → Emerald
+    Emerald → Redstone
+    Redstone → Gold Ingot
+    Gold Ingot → Iron Ingot
+    Iron Ingot → Copper Ingot
+    Copper Ingot → Coal
+    Coal → Stone
+
+Ores Downgrade
+    Ancient Debris → Diamond
+    Raw Iron → Raw Copper
+    Raw Copper → Raw Gold
+    Raw Gold → Raw Iron
+
+Deepslate Downgrade
+    Deepslate Diamond Ore → Deepslate Lapis Lazuli Ore
+    Deepslate Lapis Lazuli Ore → Deepslate Emerald Ore
+    Deepslate Emerald Ore → Deepslate Gold Ore
+    Deepslate Gold Ore → Deepslate Iron Ore
+    Deepslate Iron Ore → Deepslate Copper Ore
+    Deepslate Copper Ore → Deepslate Coal Ore
+    Deepslate Coal Ore → Stone
+
+Stone Variants
+    Stone → Cobblestone
+    Cobblestone → Mossy Cobblestone
+    Mossy Cobblestone → Mossy Stone Bricks
+    Mossy Stone Bricks → Stone Bricks
+    Stone Bricks → Cracked Stone Bricks
+    Cracked Stone Bricks → Chiseled Stone Bricks
+    Chiseled Stone Bricks → Stone
+
+    Stone Stairs → Cobblestone Stairs
+    Cobblestone Stairs → Mossy Cobblestone Stairs
+    Mossy Cobblestone Stairs → Mossy Stone Brick Stairs
+    Mossy Stone Brick Stairs → Stone Brick Stairs
+    Stone Brick Stairs → Stone Stairs
+
+    Stone Slab → Cobblestone Slab
+    Cobblestone Slab → Mossy Cobblestone Slab
+    Mossy Cobblestone Slab → Mossy Stone Brick Slab
+    Mossy Stone Brick Slab → Stone Brick Slab
+    Stone Brick Slab → Stone Slab
+
+Deepslate Variants
+    Deepslate → Cobbled Deepslate
+    Cobbled Deepslate → Chiseled Deepslate
+    Chiseled Deepslate → Polished Deepslate
+    Deepslate Bricks → Cracked Deepslate Bricks
+    Cracked Deepslate Bricks → Deepslate Tiles
+    Deepslate Tiles → Cracked Deepslate Tiles
+    Cracked Deepslate Tiles → Reinforced Deepslate
+    Reinforced Deepslate → Deepslate
+
+    Cobbled Deepslate Stairs → Polished Deepslate Stairs
+    Polished Deepslate Stairs → Deepslate Brick Stairs
+    Deepslate Brick Stairs → Deepslate Tile Stairs
+    Deepslate Tile Stairs → Cobbled Deepslate Stairs
+
+    Cobbled Deepslate Slab → Polished Deepslate Slab
+    Polished Deepslate Slab → Deepslate Brick Slab
+    Deepslate Brick Slab → Deepslate Tile Slab
+    Deepslate Tile Slab → Cobbled Deepslate Slab
+
+    Cobbled Deepslate Wall → Polished Deepslate Wall
+    Polished Deepslate Wall → Deepslate Brick Wall
+    Deepslate Brick Wall → Deepslate Tile Wall
+    Deepslate Tile Wall → Cobbled Deepslate Wall
+
+Gravel & Sand
+    Gravel → Sand
+    Sand → Gravel
+
+Diorite & Granite & Andesite
+    Granite → Diorite
+    Granite Stairs → Diorite Stairs
+    Granite Slab → Diorite Slab
+    Granite Wall → Diorite Wall
+    Polished Granite → Polished Diorite
+    Polished Granite Stairs → Polished Diorite Stairs
+    Polished Granite Slab → Polished Diorite Slab
+
+    Diorite → Andesite
+    Diorite Stairs → Andesite Stairs
+    Diorite Slab → Andesite Slab
+    Diorite Wall → Andesite Wall
+    Polished Diorite → Polished Andesite
+    Polished Diorite Stairs → Polished Andesite Stairs
+    Polished Diorite Slab → Polished Andesite Slab
+
+    Andesite → Granite
+    Andesite Stairs → Granite Stairs
+    Andesite Slab → Granite Slab
+    Andesite Wall → Granite Wall
+    Polished Andesite → Polished Granite
+    Polished Andesite Stairs → Polished Granite Stairs
+    Polished Andesite Slab → Polished Granite Slab
+
+Sandstone & Red Sandstone
+    Sandstone → Red Sandstone
+    Red Sandstone → Sandstone
+    Sandstone Stairs → Red Sandstone Stairs
+    Red Sandstone Stairs → Sandstone Stairs
+    Sandstone Slab → Red Sandstone Slab
+    Red Sandstone Slab → Sandstone Slab
+    Sandstone Wall → Red Sandstone Wall
+    Red Sandstone Wall → Sandstone Wall
+    Chiseled Sandstone → Chiseled Red Sandstone
+    Chiseled Red Sandstone → Chiseled Sandstone
+    Cut Sandstone → Cut Red Sandstone
+    Cut Red Sandstone → Cut Sandstone
+    Smooth Sandstone → Smooth Red Sandstone
+    Smooth Red Sandstone → Smooth Sandstone
+    Smooth Sandstone Stairs → Smooth Red Sandstone Stairs
+    Smooth Red Sandstone Stairs → Smooth Sandstone Stairs
+    Smooth Sandstone Slab → Smooth Red Sandstone Slab
+    Smooth Red Sandstone Slab → Smooth Sandstone Slab
+
+Prismarine Block
+    Prismarine → Prismarine Bricks
+    Prismarine Bricks → Dark Prismarine
+    Dark Prismarine → Prismarine
+    Prismarine Stairs → Prismarine Brick Stairs
+    Prismarine Brick Stairs → Dark Prismarine Stairs
+    Dark Prismarine Stairs → Prismarine Stairs
+    Prismarine Slab → Prismarine Brick Slab
+    Prismarine Brick Slab → Dark Prismarine Slab
+    Dark Prismarine Slab → Prismarine Slab
+
+Tools & Weapons Downgrades
+    Netherite Sword → Diamond Sword
+    Diamond Sword → Iron Sword
+    Iron Sword → Stone Sword
+    Stone Sword → Golden Sword
+    Golden Sword → Wooden Sword
+
+    Netherite Pickaxe → Diamond Pickaxe
+    Diamond Pickaxe → Iron Pickaxe
+    Iron Pickaxe → Stone Pickaxe
+    Stone Pickaxe → Golden Pickaxe
+    Golden Pickaxe → Wooden Pickaxe
+
+    Netherite Axe → Diamond Axe
+    Diamond Axe → Iron Axe
+    Iron Axe → Stone Axe
+    Stone Axe → Golden Axe
+    Golden Axe → Wooden Axe
+
+    Netherite Hoe → Diamond Hoe
+    Diamond Hoe → Iron Hoe
+    Iron Hoe → Stone Hoe
+    Stone Hoe → Golden Hoe
+    Golden Hoe → Wooden Hoe
+
+    Netherite Shovel → Diamond Shovel
+    Diamond Shovel → Iron Shovel
+    Iron Shovel → Stone Shovel
+    Stone Shovel → Golden Shovel
+    Golden Shovel → Wooden Shovel
+
+Armor Downgrade
+    Netherite Helmet → Diamond Helmet
+    Diamond Helmet → Iron Helmet
+    Iron Helmet → Golden Helmet
+    Golden Helmet → Leather Helmet
+    Netherite Chestplate → Diamond Chestplate
+    Diamond Chestplate → Iron Chestplate
+    Iron Chestplate → Golden Chestplate
+    Golden Chestplate → Leather Chestplate
+    Netherite Leggings → Diamond Leggings
+    Diamond Leggings → Iron Leggings
+    Iron Leggings → Golden Leggings
+    Golden Leggings → Leather Leggings
+    Netherite Boots → Diamond Boots
+    Diamond Boots → Iron Boots
+    Iron Boots → Golden Boots
+    Golden Boots → Leather Boots
+
+Horse Armor Downgrade
+    Diamond Horse Armor → Iron Horse Armor
+    Iron Horse Armor → Golden Horse Armor
+    Golden Horse Armor → Leather Horse Armor
+
+Bucket
+    Water Bucket → Lava Bucket
+    Lava Bucket → Powder Snow Bucket
+    Powder Snow Bucket → Milk Bucket
+    Milk Bucket → Cod Bucket
+    Cod Bucket → Salmon Bucket
+    Salmon Bucket → Tropical Fish Bucket
+    Tropical Fish Bucket → Pufferfish Bucket
+    Pufferfish Bucket → Axolotl Bucket
+    Axolotl Bucket → Tadpole Bucket
+
+On a Stick
+    Carrot on a Stick → Warped Fungus on a Stick
+    Warped Fungus on a Stick → Carrot on a Stick
+
+Squid Loot
+    Ink Sac → Glow Ink Sac
+    Glow Ink Sac → Ink Sac
+
+Food Downgrade
+    Golden Apple → Apple
+    Golden Carrot → Carrot
+    Cooked Beef → Beef
+    Cooked Porkchop → Porkchop
+    Cooked Chicken → Chicken
+    Cooked Mutton → Mutton
+    Cooked Rabbit → Rabbit
+    Cooked Cod → Cod
+    Cooked Salmon → Salmon
+
+Food Cycle
+    Sweet Berries → Glow Berries
+    Glow Berries → Sweet Berries
+    Beef → Porkchop
+    Porkchop → Chicken
+    Chicken → Mutton
+    Mutton → Rabbit
+    Rabbit → Beef
+    Cod → Salmon
+    Salmon → Cod
+
+Crop Cycle
+    Potato → Carrot
+    Carrot → Beetroot
+    Beetroot → Wheat
+    Wheat → Potato
+    Sugar Cane → Bamboo
+    Bamboo → Sugar Cane
+
+Crop Seed Cycle
+    Wheat Seeds → Pumpkin Seeds
+    Pumpkin Seeds → Melon Seeds
+    Melon Seeds → Beetroot Seeds
+    Beetroot Seeds → Torchflower Seeds
+    Torchflower Seeds → Pitcher Pod
+    Pitcher Pod → Wheat Seeds
+
+Useless Food Cycle
+    Poisonous Potato → Tropical Fish
+    Tropical Fish → Poisonous Potato
+
+Special Items
+    Beacon → Elytra
+    Elytra → Heavy Core
+    Heavy Core → Enchanted Golden Apple
+    Enchanted Golden Apple → Spawner
+    Spawner → Bedrock
+    Bedrock → Beacon
+
+Mod
+    Dragon Head → Transmutation Wand
+    Obama Fuel → John Pork Meat
+    John Pork Meat → Obama Fuel
