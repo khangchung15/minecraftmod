@@ -15,8 +15,8 @@ There are many items that are heavily relied on RNG or takes a while to obtain w
 ## Meme
 Added many blocks and items from meme culture. Here are the list of **everything**:
 ### Blocks:
-- Block of John Pork : Require Iron Pickaxe | Make various pig sounds depends if the player interact or attack with a weapon
-- Block of Obama : Require Diamond Pickaxe | It's just Obama on every sides
+- Block of John Pork : Require Iron Pickaxe | Crafted from 9 John Pork | Make various pig sounds depends if the player interact or attack with a weapon
+- Block of Obama : Require Diamond Pickaxe | Crafted from 9 Obama | It's just Obama on every sides
 - Obama Ore : Require Iron Pickaxe | Drop Obama when mined
 ### Items:
 - Obama: Obtained from mining Obama Ore | Can be smelted in **only furnace** to obtain Obama Fuel
