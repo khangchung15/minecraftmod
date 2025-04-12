@@ -1,0 +1,311 @@
+Block Downgrades:
+    Netherite Block → Diamond Block
+    Diamond Block → Lapis Lazuli Block
+    Lapis Lazuli Block → Emerald Block
+    Emerald Block → Gold Block
+    Gold Block → Iron Block
+    Iron Block → Copper Block
+    Copper Block → Coal Block
+    Coal Block → Stone
+    Stone → Cobblestone
+    Cobblestone → Grass Block
+    Grass Block → Dirt
+    Dirt → Air
+
+Ore Downgrades
+    Ancient Debris → Diamond Ore
+    Diamond Ore → Lapis Lazuli Ore
+    Lapis Lazuli Ore → Emerald Ore
+    Emerald Ore → Gold Ore
+    Gold Ore → Iron Ore
+    Iron Ore → Copper Ore
+    Copper Ore → Coal Ore
+    Coal Ore → Stone
+
+Deepslate Downgrades
+    Deepslate Diamond Ore → Deepslate Lapis Lazuli Ore
+    Deepslate Lapis Lazuli Ore → Deepslate Emerald Ore
+    Deepslate Emerald Ore → Deepslate Gold Ore
+    Deepslate Gold Ore → Deepslate Iron Ore
+    Deepslate Iron Ore → Deepslate Copper Ore
+    Deepslate Copper Ore → Deepslate Coal Ore
+    Deepslate Coal Ore → Stone
+
+Froglights
+    Ochre Froglight → Verdant Froglight
+    Verdant Froglight → Pearlescent Froglight
+    Pearlescent Froglight → Ochre Froglight
+
+Amethyst
+    Amethyst Cluster → Large Amethyst Bud
+    Large Amethyst Bud → Medium Amethyst Bud
+    Medium Amethyst Bud → Small Amethyst Bud
+    Small Amethyst Bud → Amethyst Cluster
+
+Gravel & Sand
+    Gravel → Sand
+    Sand → Gravel
+
+Granite, Diorite, & Andesite
+    Granite → Diorite
+    Granite Stairs → Diorite Stairs
+    Granite Slab → Diorite Slab
+    Granite Wall → Diorite Wall
+    Polished Granite → Polished Diorite
+    Polished Granite Stairs → Polished Diorite Stairs
+    Polished Granite Slab → Polished Diorite Slab
+    Diorite → Andesite
+    Diorite Stairs → Andesite Stairs
+    Diorite Slab → Andesite Slab
+    Diorite Wall → Andesite Wall
+    Polished Diorite → Polished Andesite
+    Polished Diorite Stairs → Polished Andesite Stairs
+    Polished Diorite Slab → Polished Andesite Slab
+    Andesite → Granite
+    Andesite Stairs → Granite Stairs
+    Andesite Slab → Granite Slab
+    Andesite Wall → Granite Wall
+    Polished Andesite → Polished Granite
+    Polished Andesite Stairs → Polished Granite Stairs
+    Polished Andesite Slab → Polished Granite Slab
+
+Wool
+    Black Wool → Blue Wool
+    Blue Wool → Brown Wool
+    Brown Wool → Cyan Wool
+    Cyan Wool → Gray Wool
+    Gray Wool → Green Wool
+    Green Wool → Light Blue Wool
+    Light Blue Wool → Light Gray Wool
+    Light Gray Wool → Lime Wool
+    Lime Wool → Magenta Wool
+    Magenta Wool → Orange Wool
+    Orange Wool → Pink Wool
+    Pink Wool → Purple Wool
+    Purple Wool → Red Wool
+    Red Wool → White Wool
+    White Wool → Yellow Wool
+    Yellow Wool → Black Wool
+
+Concrete Powder
+    Black Concrete Powder → Blue Concrete Powder
+    Blue Concrete Powder → Brown Concrete Powder
+    Brown Concrete Powder → Cyan Concrete Powder
+    Cyan Concrete Powder → Gray Concrete Powder
+    Gray Concrete Powder → Green Concrete Powder
+    Green Concrete Powder → Light Blue Concrete Powder
+    Light Blue Concrete Powder → Light Gray Concrete Powder
+    Light Gray Concrete Powder → Lime Concrete Powder
+    Lime Concrete Powder → Magenta Concrete Powder
+    Magenta Concrete Powder → Orange Concrete Powder
+    Orange Concrete Powder → Pink Concrete Powder
+    Pink Concrete Powder → Purple Concrete Powder
+    Purple Concrete Powder → Red Concrete Powder
+    Red Concrete Powder → White Concrete Powder
+    White Concrete Powder → Yellow Concrete Powder
+    Yellow Concrete Powder → Black Concrete Powder
+
+Concrete
+    Black Concrete → Blue Concrete
+    Blue Concrete → Brown Concrete
+    Brown Concrete → Cyan Concrete
+    Cyan Concrete → Gray Concrete
+    Gray Concrete → Green Concrete
+    Green Concrete → Light Blue Concrete
+    Light Blue Concrete → Light Gray Concrete
+    Light Gray Concrete → Lime Concrete
+    Lime Concrete → Magenta Concrete
+    Magenta Concrete → Orange Concrete
+    Orange Concrete → Pink Concrete
+    Pink Concrete → Purple Concrete
+    Purple Concrete → Red Concrete
+    Red Concrete → White Concrete
+    White Concrete → Yellow Concrete
+    Yellow Concrete → Black Concrete
+
+Terracotta
+    Terracotta → Black Terracotta
+    Black Terracotta → Blue Terracotta
+    Blue Terracotta → Brown Terracotta
+    Brown Terracotta → Cyan Terracotta
+    Cyan Terracotta → Gray Terracotta
+    Gray Terracotta → Green Terracotta
+    Green Terracotta → Light Blue Terracotta
+    Light Blue Terracotta → Light Gray Terracotta
+    Light Gray Terracotta → Lime Terracotta
+    Lime Terracotta → Magenta Terracotta
+    Magenta Terracotta → Orange Terracotta
+    Orange Terracotta → Pink Terracotta
+    Pink Terracotta → Purple Terracotta
+    Purple Terracotta → Red Terracotta
+    Red Terracotta → White Terracotta
+    White Terracotta → Yellow Terracotta
+    Yellow Terracotta → Terracotta
+
+Glazed Terracotta
+    Black Glazed Terracotta → Blue Glazed Terracotta
+    Blue Glazed Terracotta → Brown Glazed Terracotta
+    Brown Glazed Terracotta → Cyan Glazed Terracotta
+    Cyan Glazed Terracotta → Gray Glazed Terracotta
+    Gray Glazed Terracotta → Green Glazed Terracotta
+    Green Glazed Terracotta → Light Blue Glazed Terracotta
+    Light Blue Glazed Terracotta → Light Gray Glazed Terracotta
+    Light Gray Glazed Terracotta → Lime Glazed Terracotta
+    Lime Glazed Terracotta → Magenta Glazed Terracotta
+    Magenta Glazed Terracotta → Orange Glazed Terracotta
+    Orange Glazed Terracotta → Pink Glazed Terracotta
+    Pink Glazed Terracotta → Purple Glazed Terracotta
+    Purple Glazed Terracotta → Red Glazed Terracotta
+    Red Glazed Terracotta → White Glazed Terracotta
+    White Glazed Terracotta → Yellow Glazed Terracotta
+    Yellow Glazed Terracotta → Black Glazed Terracotta
+
+Carpet
+    Black Carpet → Blue Carpet
+    Blue Carpet → Brown Carpet
+    Brown Carpet → Cyan Carpet
+    Cyan Carpet → Gray Carpet
+    Gray Carpet → Green Carpet
+    Green Carpet → Light Blue Carpet
+    Light Blue Carpet → Light Gray Carpet
+    Light Gray Carpet → Lime Carpet
+    Lime Carpet → Magenta Carpet
+    Magenta Carpet → Orange Carpet
+    Orange Carpet → Pink Carpet
+    Pink Carpet → Purple Carpet
+    Purple Carpet → Red Carpet
+    Red Carpet → White Carpet
+    White Carpet → Yellow Carpet
+    Yellow Carpet → Moss Carpet
+    Moss Carpet → Black Carpet
+
+Banner
+    Black Banner → Blue Banner
+    Blue Banner → Brown Banner
+    Brown Banner → Cyan Banner
+    Cyan Banner → Gray Banner
+    Gray Banner → Green Banner
+    Green Banner → Light Blue Banner
+    Light Blue Banner → Light Gray Banner
+    Light Gray Banner → Lime Banner
+    Lime Banner → Magenta Banner
+    Magenta Banner → Orange Banner
+    Orange Banner → Pink Banner
+    Pink Banner → Purple Banner
+    Purple Banner → Red Banner
+    Red Banner → White Banner
+    White Banner → Yellow Banner
+    Yellow Banner → Black Banner
+
+Glass
+    Glass → Black Stained Glass
+    Black Stained Glass → Blue Stained Glass
+    Blue Stained Glass → Brown Stained Glass
+    Brown Stained Glass → Cyan Stained Glass
+    Cyan Stained Glass → Gray Stained Glass
+    Gray Stained Glass → Green Stained Glass
+    Green Stained Glass → Light Blue Stained Glass
+    Light Blue Stained Glass → Light Gray Stained Glass
+    Light Gray Stained Glass → Lime Stained Glass
+    Lime Stained Glass → Magenta Stained Glass
+    Magenta Stained Glass → Orange Stained Glass
+    Orange Stained Glass → Pink Stained Glass
+    Pink Stained Glass → Purple Stained Glass
+    Purple Stained Glass → Red Stained Glass
+    Red Stained Glass → White Stained Glass
+    White Stained Glass → Yellow Stained Glass
+    Yellow Stained Glass → Tinted Glass
+    Tinted Glass → Glass
+
+Glass Pane
+    Glass Pane → Black Stained Glass Pane
+    Black Stained Glass Pane → Blue Stained Glass Pane
+    Blue Stained Glass Pane → Brown Stained Glass Pane
+    Brown Stained Glass Pane → Cyan Stained Glass Pane
+    Cyan Stained Glass Pane → Gray Stained Glass Pane
+    Gray Stained Glass Pane → Green Stained Glass Pane
+    Green Stained Glass Pane → Light Blue Stained Glass Pane
+    Light Blue Stained Glass Pane → Light Gray Stained Glass Pane
+    Light Gray Stained Glass Pane → Lime Stained Glass Pane
+    Lime Stained Glass Pane → Magenta Stained Glass Pane
+    Magenta Stained Glass Pane → Orange Stained Glass Pane
+    Orange Stained Glass Pane → Pink Stained Glass Pane
+    Pink Stained Glass Pane → Purple Stained Glass Pane
+    Purple Stained Glass Pane → Red Stained Glass Pane
+    Red Stained Glass Pane → White Stained Glass Pane
+    White Stained Glass Pane → Yellow Stained Glass Pane
+    Yellow Stained Glass Pane → Glass Pane
+
+Candle
+    Candle → Black Candle
+    Black Candle → Blue Candle
+    Blue Candle → Brown Candle
+    Brown Candle → Cyan Candle
+    Cyan Candle → Gray Candle
+    Gray Candle → Green Candle
+    Green Candle → Light Blue Candle
+    Light Blue Candle → Light Gray Candle
+    Light Gray Candle → Lime Candle
+    Lime Candle → Magenta Candle
+    Magenta Candle → Orange Candle
+    Orange Candle → Pink Candle
+    Pink Candle → Purple Candle
+    Purple Candle → Red Candle
+    Red Candle → White Candle
+    White Candle → Yellow Candle
+    Yellow Candle → Candle
+
+Glowstone & Shroomlight
+    Glowstone → Shroomlight
+    Shroomlight → Glowstone
+
+Magma Block & Soul Sand
+    Magma Block → Soul Sand
+    Soul Sand → Magma Block
+
+Lantern
+    Lantern → Soul Lantern
+    Soul Lantern → Lantern
+
+Campfire
+    Campfire → Soul Campfire
+    Soul Campfire → Campfire
+
+Redstone
+    Piston → Sticky Piston
+    Note Block → Jukebox
+    Dispenser → Dropper
+    Sculk Sensor → Calibrated Sculk Sensor
+    Calibrated Sculk Sensor → Sculk Sensor
+
+Mushroom
+    Brown Mushroom → Red Mushroom
+    Red Mushroom → Brown Mushroom
+    Crimson Fungus → Warped Fungus
+    Warped Fungus → Crimson Fungus
+
+Ice
+    Blue Ice → Packed Ice
+    Packed Ice → Ice
+
+Log
+    Acacia Log → Birch Log
+    Birch Log → Cherry Log
+    Cherry Log → Oak Log
+    Oak Log → Dark Oak Log
+    Dark Oak Log → Jungle Log
+    Jungle Log → Mangrove Log
+    Mangrove Log → Spruce Log
+    Spruce Log → Acacia Log
+    Crimson Stem → Warped Stem
+    Warped Stem → Crimson Stem
+
+Sapling
+    Acacia Sapling → Birch Sapling
+    Birch Sapling → Cherry Sapling
+    Cherry Sapling → Oak Sapling
+    Oak Sapling → Dark Oak Sapling
+    Dark Oak Sapling → Jungle Sapling
+    Jungle Sapling → Mangrove Propagule
+    Mangrove Propagule → Spruce Sapling
+    Spruce Sapling → Acacia Sapling
