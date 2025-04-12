@@ -17,6 +17,7 @@ Music Discs
     Music Disc Otherside → Music Disc Relic
     Music Disc Relic → Music Disc 5
     Music Disc 5 → Music Disc Pigstep
+    Music Disc Pigstep → Music Disc 13 
 
 Coral
     Tube Coral → Brain Coral
