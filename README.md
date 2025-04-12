@@ -16,7 +16,7 @@ There are many items that are heavily relied on RNG or takes a while to obtain w
    ![image](https://github.com/user-attachments/assets/b1ae92d9-8ee8-4a08-b58f-5e39340c45b8)
 - Craftable trident: The weapon that is very hard to obtain. The player must kill a Drowned spawned with a trident (6.25%) and have a 8.5% chance of having it dropped. The chance of killing any Drowned and have it dropped is 0.53%
   - Added crafting recipe for trident using Heart of the Sea
-    ![image](https://github.com/user-attachments/assets/12845b05-32a0-4e33-9643-b8d668814c29)
+  ![image](https://github.com/user-attachments/assets/12845b05-32a0-4e33-9643-b8d668814c29)
 - 
 ## Transmuting Wand & Transmuting Blocks:
 
