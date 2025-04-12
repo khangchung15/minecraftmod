@@ -42,6 +42,6 @@ Allow players to transmute or downgrade blocks and items. Transmuting Wand only 
 These transmutation can be downgrading blocks (Iron Block → Copper Block → Coal Block) or transmuting blocks (Black Wool → Blue Wool)
 
 ### Transmuting Wand: Crafted from 2 sticks and 1 John Pork's Meat
+#### A Full list of every blocks compatible with Transmutating Wand in TransmutationWand.txt
 
   ![image](https://github.com/user-attachments/assets/77516cff-cc1e-4c45-b6f4-743ed3f25934)
-- 
