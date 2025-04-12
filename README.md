@@ -24,7 +24,7 @@ Added many blocks and items from meme culture. Here are the list of **everything
 - John Pork: 
 - John Pork's Meat: Obtained from cooking John Pork | A king's feast in disguised, granting the players the following effects for 4 minutes upon eating:
   - Nutrition: 5 (Similar nutrition to bread or cooked cod)
-  - Saturation: 3.0 (Currently highest saturation in vanilla minecraft is golden carrot and enchanted golden apple at 1.2 saturation)
+  - Saturation: 3.0 (Highest saturation in vanilla is golden carrot and enchanted golden apple at 1.2 saturation)
   - Absorption IV (Add +8 Yellow Health to player)
   - Speed IV
   - Dolphin's Grace IV
