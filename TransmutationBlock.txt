@@ -784,6 +784,7 @@ Bucket
     Tropical Fish Bucket → Pufferfish Bucket
     Pufferfish Bucket → Axolotl Bucket
     Axolotl Bucket → Tadpole Bucket
+    Tadpole Bucket → Water Bucket
 
 On a Stick
     Carrot on a Stick → Warped Fungus on a Stick
