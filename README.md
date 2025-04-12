@@ -40,7 +40,8 @@ Added many blocks and items. Here are the list of **everything**:
 ## Transmutation Wand & Block of Transmutation:
 Allow players to transmute or downgrade blocks and items. Transmutation Wand only allows players to transmute blocks while Block of Transmutation allow players to transmute blocks & items when **thrown on top**.
 These transmutation can be downgrading blocks (Iron Block → Copper Block → Coal Block) or transmuting blocks (Black Wool → Blue Wool)
-Due to how much items & blocks you can transmute, a full list is in their respective txt file. In that file, there will be **Item 1** → **Item 2**. This means you can transmute from Item 1 to Item 2.
+
+*Due to how much items & blocks you can transmute, a full list is in their respective txt file. In that file, there will be **Item 1** → **Item 2**. This means you can transmute from Item 1 to Item 2.*
 
 **Note that not every items and blocks get their own transmutation**
 For example a common mob drop cycles will neither contain zombie's iron ingot drop since iron is already used for ore downgrading (gold ingot → iron ingot → copper ingot)
