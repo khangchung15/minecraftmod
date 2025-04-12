@@ -44,6 +44,7 @@ These transmutation can be downgrading blocks (Iron Block → Copper Block → C
 *Due to how much items & blocks you can transmute, a full list is in their respective txt file. In that file, there will be **Item 1** → **Item 2**. This means you can transmute from Item 1 to Item 2.*
 
 **Note that not every items and blocks get their own transmutation**
+
 For example a common mob drop cycles will neither contain zombie's iron ingot drop since iron is already used for ore downgrading (gold ingot → iron ingot → copper ingot)
 nor zombie's carrot and potato drop since carrot and potato is already used for crop cycling 
 
