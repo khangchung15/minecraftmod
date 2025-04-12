@@ -12,8 +12,8 @@ There are many items that are heavily relied on RNG or takes a while to obtain w
 
     ![image](https://github.com/user-attachments/assets/12845b05-32a0-4e33-9643-b8d668814c29)
 
-## Meme
-Added many blocks and items from meme culture. Here are the list of **everything**:
+## Mod
+Added many blocks and items. Here are the list of **everything**:
 ### Blocks:
 - Block of John Pork : Require Iron Pickaxe | Crafted from 9 John Pork | Make various pig sounds depends if the player interact or attack with a weapon
 - Block of Obama : Require Diamond Pickaxe | Crafted from 9 Obama | It's just Obama on every sides
