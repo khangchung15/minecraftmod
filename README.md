@@ -14,13 +14,26 @@ There are many items that are heavily relied on RNG or takes a while to obtain w
 
 ## Meme
 Added many blocks and items from meme culture. Here are the list of **everything**:
-- Blocks:
-  - Block of John Pork : Require Iron Pickaxe | Make various pig sounds depends if the player interact or attack with a weapon
-  - Block of Obama : Require Diamond Pickaxe | It's just Obama on every sides
-  - Obama Ore : Require Iron Pickaxe | Drop Obama when mined
-- Item:
-  - 
-
+### Blocks:
+- Block of John Pork : Require Iron Pickaxe | Make various pig sounds depends if the player interact or attack with a weapon
+- Block of Obama : Require Diamond Pickaxe | It's just Obama on every sides
+- Obama Ore : Require Iron Pickaxe | Drop Obama when mined
+### Items:
+- Obama: Obtained from mining Obama Ore | Can be smelted in **only furnace** to obtain Obama Fuel
+- Obama Fuel: A strong source of fuel, burns 2x longer than lava bucket
+- John Pork: 
+- John Pork's Meat: Obtained from cooking John Pork | A king's feast in disguised, granting the players the following effects for 4 minutes upon eating:
+  - Absorption IV
+  - Speed IV
+  - Dolphin's Grace IV
+  - Resistance IV
+  - Water Breathing IV
+  - Night Vision IV
+  - Regeneration IV
+  - Haste IV
+  - Health Boost IV
+  - Fire Resistance IV
+  - Strength IV
 
 ## Transmuting Wand & Block of Transmutation:
 Allow players to transmute or downgrade blocks and items. Transmuting Wand only allows players to transmute blocks while Block of Transmutation allow players to transmute blocks & items when **thrown on top**.
