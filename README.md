@@ -5,8 +5,8 @@ This ReadMe outlines all the features and functionalities in this mod
 Added many blocks and items from meme culture. Here are the list of **everything**:
 - Blocks:
   - Block of John Pork : Require Iron Pickaxe | Make various pig sounds depends if the player interact or attack with a weapon
-  - Block of Obama
-  - Obama Ore
+  - Block of Obama : Require Diamond Pickaxe | It's just Obama on every sides
+  - Obama Ore : Require Iron Pickaxe | Drop Obama when mined
 - Item:
 
 ## Quality of Life
