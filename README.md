@@ -1,10 +1,14 @@
 # Minecraft Mod
 This ReadMe outlines all the features and functionalities in this mod
+- Meme
+- Quality of Life
+- Transmuting Wand & Transmuting Blocks
 
 ## Meme
 Added many blocks and items from meme culture. Here are the list of **everything**:
 - Blocks:
   - Block of John Pork
+    - Make various pig sounds depends if the player interact or attack with a weapon
   - Block of Obama
   - Obama Ore
 - Item:
