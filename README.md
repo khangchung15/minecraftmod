@@ -1,2 +1,3 @@
-# Minecraft Mod
-## Meme Section
+## Minecraft Mod
+This is a mod for Minecraft,
+### Meme Section
