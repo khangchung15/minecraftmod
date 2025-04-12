@@ -23,7 +23,9 @@ Added many blocks and items from meme culture. Here are the list of **everything
 - Obama Fuel: A strong source of fuel, burns 2x longer than lava bucket
 - John Pork: 
 - John Pork's Meat: Obtained from cooking John Pork | A king's feast in disguised, granting the players the following effects for 4 minutes upon eating:
-  - Absorption IV
+  - Nutrition: 5 (Similar nutrition to bread or cooked cod)
+  - Saturation: 3.0 (Currently highest saturation in vanilla minecraft is golden carrot and enchanted golden apple at 1.2 saturation)
+  - Absorption IV (Add +8 Yellow Health to player)
   - Speed IV
   - Dolphin's Grace IV
   - Resistance IV
@@ -31,7 +33,7 @@ Added many blocks and items from meme culture. Here are the list of **everything
   - Night Vision IV
   - Regeneration IV
   - Haste IV
-  - Health Boost IV
+  - Health Boost IV (Add +8 Health to player)
   - Fire Resistance IV
   - Strength IV
 
