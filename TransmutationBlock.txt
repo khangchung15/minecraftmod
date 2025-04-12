@@ -25,26 +25,31 @@ Coral
     Bubble Coral → Fire Coral
     Fire Coral → Horn Coral
     Horn Coral → Tube Coral
+
     Tube Coral Fan → Brain Coral Fan
     Brain Coral Fan → Bubble Coral Fan
     Bubble Coral Fan → Fire Coral Fan
     Fire Coral Fan → Horn Coral Fan
     Horn Coral Fan → Tube Coral Fan
+
     Tube Coral Block → Brain Coral Block
     Brain Coral Block → Bubble Coral Block
     Bubble Coral Block → Fire Coral Block
     Fire Coral Block → Horn Coral Block
     Horn Coral Block → Tube Coral Block
+
     Dead Tube Coral → Dead Brain Coral
     Dead Brain Coral → Dead Bubble Coral
     Dead Bubble Coral → Dead Fire Coral
     Dead Fire Coral → Dead Horn Coral
     Dead Horn Coral → Dead Tube Coral
+
     Dead Tube Coral Fan → Dead Brain Coral Fan
     Dead Brain Coral Fan → Dead Bubble Coral Fan
     Dead Bubble Coral Fan → Dead Fire Coral Fan
     Dead Fire Coral Fan → Dead Horn Coral Fan
     Dead Horn Coral Fan → Dead Tube Coral Fan
+
     Dead Tube Coral Block → Dead Brain Coral Block
     Dead Brain Coral Block → Dead Bubble Coral Block
     Dead Bubble Coral Block → Dead Fire Coral Block
