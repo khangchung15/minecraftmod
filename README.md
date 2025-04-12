@@ -25,7 +25,6 @@ Added many blocks and items. Here are the list of **everything**:
 - John Pork's Meat: Obtained from cooking John Pork | A king's feast in disguised, granting the players the following effects for 4 minutes upon eating:
   - Nutrition: 5 (Similar nutrition to bread or cooked cod)
   - Saturation: 3.0 (Highest saturation in vanilla is golden carrot and enchanted golden apple at 1.2 saturation)
-  - Absorption IV (Add +8 Yellow Health to player)
   - Speed IV
   - Dolphin's Grace IV
   - Resistance IV
@@ -33,6 +32,7 @@ Added many blocks and items. Here are the list of **everything**:
   - Night Vision IV
   - Regeneration IV
   - Haste IV
+  - Absorption IV (Add +8 Yellow Health to player)
   - Health Boost IV (Add +8 Health to player)
   - Fire Resistance IV
   - Strength IV
