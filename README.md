@@ -25,7 +25,7 @@ Added many blocks and items. Here are the list of **everything**:
 - Obama Ore : Require Iron Pickaxe | Drop Obama when mined
 ### Items:
 - Obama: Obtained from mining Obama Ore | Can be smelted in **only furnace** to obtain Obama Fuel
-- Obama Fuel: A strong source of fuel, burns 2x longer than lava bucket
+- Obama Fuel: Obtained from smelting Obama using furnace | A strong source of fuel, burns 2x longer than lava bucket
 - John Pork: 
 - John Pork's Meat: Obtained from cooking John Pork | A king's feast in disguised, granting the players the following effects for 4 minutes upon eating:
   - Nutrition: 5 (Similar nutrition to bread or cooked cod)
