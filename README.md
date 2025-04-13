@@ -11,6 +11,11 @@ There are many items that are heavily relied on RNG or takes a while to obtain w
   - Added crafting recipe for trident using Heart of the Sea
 
     ![image](https://github.com/user-attachments/assets/12845b05-32a0-4e33-9643-b8d668814c29)
+- Craftable chainmail armor: Chainmail armor is unobtainable through crafting. It can only be obtained through trading, killing zombies or skeletons, and loot chests
+  - Added crafting recipe for all 4 pieces of chainmail armor using chain | Same pattern as crafting any other ore armors
+ 
+    ![image](https://github.com/user-attachments/assets/961924c2-dece-4978-ab42-6709fdfd8050)
+
 
 ## Mod
 Added many blocks and items. Here are the list of **everything**:
