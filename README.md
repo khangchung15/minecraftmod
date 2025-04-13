@@ -22,7 +22,7 @@ Added many blocks and items. Here are the list of **everything**:
 ### Blocks:
 - Block of John Pork : Require Iron Pickaxe | Crafted from 9 John Pork | Make various pig sounds depends if the player interact or attack with a weapon
 - Block of Obama : Require Diamond Pickaxe | Crafted from 9 Obama | It's just Obama on every sides
-- Obama Ore : Require Iron Pickaxe | Drop Obama when mined
+- Obama Ore : Require Iron Pickaxe | Drop Obama when mined, drop Obama Ore when mined using Silk Touch pickaxe
 ### Items:
 - Obama: Obtained from mining Obama Ore | Can be smelted in **only furnace** to obtain Obama Fuel
 - Obama Fuel: Obtained from smelting Obama using furnace | A strong source of fuel, burns 2x longer than lava bucket
